@@ -4,7 +4,7 @@ This is a paper list of state-of-the-art research materials related to decision 
 
 
 
-- Adversarial Inverse Reinforcement Learning for Decision Making in Autonomous Driving, ICRA 2020, [[paper](https://arxiv.org/abs/1911.08044v1])]
+- Adversarial Inverse Reinforcement Learning for Decision Making in Autonomous Driving, ICRA 2020, [[paper](https://arxiv.org/abs/1911.08044v1)]
 - Jointly Learnable Behavior and Trajectory Planning for Self-Driving Vehicles, IROS 2019,  [[paper](https://arxiv.org/abs/1910.04586)]
 - Interactive Decision Making for Autonomous Vehicles in Dense Traffic, ITSC 2019,  [[paper](https://arxiv.org/abs/1909.12914v1)]
 - End-to-end Interpretable Neural Motion Planner, CVPR 2019,  [[paper](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)]
