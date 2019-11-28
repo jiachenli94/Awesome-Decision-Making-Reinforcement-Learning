@@ -4,6 +4,8 @@ This is a paper list of state-of-the-art research materials related to decision 
 
 This paper list is divided into three parts. The first part lists the papers which describe the theories of the algorithms, which are the foundations for the further applications. The remaining two parts give the applications of autonomous driving and mobile robots respectively.
 
+Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
+
 ## Algorithms
 
 - Learning Robust Rewards with Adversarial Inverse Reinforcement Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1710.11248)]
