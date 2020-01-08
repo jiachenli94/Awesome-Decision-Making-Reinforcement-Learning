@@ -5,7 +5,15 @@ This is a paper list of state-of-the-art research materials related to decision 
 
 This paper list is divided into three parts. The first part lists the papers which describe the theories of the algorithms, which are the foundations for the further applications. The remaining two parts give the applications of autonomous driving and mobile robots respectively.
 
+**Maintainers**: [**Jiachen Li**](https://jiachenli94.github.io) (University of California, Berkeley)
+
+**Email**: jiachen_li@berkeley.edu
+
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
+
+Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
+
+**Research Intern**: Please read [**this**](https://jiachenli94.github.io/Research_Intern_Opportunities_at_UC_Berkeley.pdf) if you want to apply for research intern opportunities in our group.
 
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) is also a collection of research materials for interaction-aware trajectory (behavior) prediction.
 
