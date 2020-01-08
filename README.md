@@ -7,6 +7,8 @@ This paper list is divided into three parts. The first part lists the papers whi
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
+**Note**: [**Here**](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) is also a collection of research materials for interaction-aware trajectory (behavior) prediction.
+
 ## Algorithms
 
 - Learning Robust Rewards with Adversarial Inverse Reinforcement Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1710.11248)]
