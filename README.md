@@ -3,8 +3,6 @@
 
 This is a paper list of state-of-the-art research materials related to decision making and motion planning. Wish it could be helpful for both academia and industry. (Still updating)
 
-This paper list is divided into three parts. The first part lists the papers which describe the theories of the algorithms, which are the foundations for the further applications. The remaining two parts give the applications of autonomous driving and mobile robots respectively.
-
 **Maintainers**: [**Jiachen Li**](https://jiachenli94.github.io) (University of California, Berkeley)
 
 **Email**: jiachen_li@berkeley.edu
@@ -17,40 +15,40 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) is also a collection of research materials for interaction-aware trajectory (behavior) prediction.
 
-## Algorithms
+## RL & IRL & GAIL
 
-- Learning Robust Rewards with Adversarial Inverse Reinforcement Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1710.11248)]
-- A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, NIPS 2016,  [[paper](https://arxiv.org/abs/1611.03852)]
-- Generative Adversarial Imitation Learning, NIPS 2016,  [[paper](https://arxiv.org/abs/1606.03476)]
-- Continuous control with deep reinforcement learning, ICLR 2016,  [[paper](https://arxiv.org/abs/1509.02971)]
+- Maximum Entropy Deep Inverse Reinforcement Learning, 2015, [[paper](https://arxiv.org/abs/1507.04888)]
 - Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization, ICML 2016, [[paper](https://arxiv.org/abs/1603.00448)]
+- Generative Adversarial Imitation Learning, NIPS 2016,  [[paper](https://arxiv.org/abs/1606.03476)]
+- A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, NIPS 2016,  [[paper](https://arxiv.org/abs/1611.03852)]
+- InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations, NIPS 2017, [[paper](https://arxiv.org/pdf/1703.08840.pdf)] [[code](https://github.com/YunzhuLi/InfoGAIL)]
+- Self-Imitation Learning, ICML 2018, [[paper](https://arxiv.org/abs/1806.05635)] [[code](https://github.com/wudongming97/self-imitation-learning)]
+- Learning Robust Rewards with Adversarial Inverse Reinforcement Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1710.11248)]
+- Multi-Agent Generative Adversarial Imitation Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1807.09936)]
+- Multi-Agent Adversarial Inverse Reinforcement Learning, ICML 2019, [[paper](https://arxiv.org/abs/1907.13220v1)]
 
 ## Autonomous Driving
 
-- Adversarial Inverse Reinforcement Learning for Decision Making in Autonomous Driving, ICRA 2020, [[paper](https://arxiv.org/abs/1911.08044v1)]
-- Dynamic Input for Deep Reinforcement Learning in Autonomous Driving, IROS 2019, [[paper](https://arxiv.org/abs/1907.10994v1)]
-- A Hierarchical Architecture for Sequential Decision-Making in Autonomous Driving using Deep Reinforcement Learning, ICML 2019, [[paper](https://arxiv.org/abs/1906.08464v1)]
-- Jointly Learnable Behavior and Trajectory Planning for Self-Driving Vehicles, IROS 2019,  [[paper](https://arxiv.org/abs/1910.04586)]
-- Interactive Decision Making for Autonomous Vehicles in Dense Traffic, ITSC 2019,  [[paper](https://arxiv.org/abs/1909.12914v1)]
-- End-to-end Interpretable Neural Motion Planner, CVPR 2019,  [[paper](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)]
-- Automated Speed and Lane Change Decision Making using Deep Reinforcement Learning, ITSC 2018, [[paper](https://arxiv.org/abs/1803.10056)]
-- End-to-End Race Driving with Deep Reinforcement Learning, ICRA 2018, [[paper](https://arxiv.org/abs/1807.02371)]
-- Safe Reinforcement Learning on Autonomous Vehicles, IROS 2018,  [[paper](https://arxiv.org/abs/1910.00399)]
-- Learning Negotiating Behavior Between Cars in Intersections using Deep Q-Learning, ITSC 2018, [[paper](https://arxiv.org/abs/1810.10469)]
+- A Survey of Deep Learning Applications to Autonomous Vehicle Control, IEEE Transaction on ITS 2019, [[paper](https://arxiv.org/pdf/1912.10773v1.pdf)]
+- Imitating Driver Behavior with Generative Adversarial Networks, IV 2017,  [[paper](https://arxiv.org/abs/1701.06699)] [[code](https://github.com/sisl/gail-driver)]
+- Multi-Agent Imitation Learning for Driving Simulation, IROS 2018, [[paper](https://arxiv.org/pdf/1803.01044v1.pdf)] [[code](https://github.com/sisl/ngsim_env)]
+- Simulating Emergent Properties of Human Driving Behavior Using Multi-Agent Reward Augmented Imitation Learning, ICRA 2019, [[paper](https://arxiv.org/pdf/1903.05766v1.pdf)] [[code](https://github.com/sisl/ngsim_env)]
+- Learning from Demonstration in the Wild, ICRA 2018, [[paper](http://arxiv.org/abs/1811.03516v2)]
+- Multi-Agent Connected Autonomous Driving using Deep Reinforcement Learning, NeurIPS 2019, [[paper](https://arxiv.org/abs/1911.04175)] [[code](https://github.com/praveen-palanisamy/macad-gym)]
+- Model-free Deep Reinforcement Learning for Urban Autonomous Driving, ITSC 2019, [[paper](https://arxiv.org/abs/1904.09503v2)]
 - End-to-end driving via conditional imitation learning, ICRA 2018,  [[paper](https://arxiv.org/abs/1710.02410)]
-- A Reinforcement Learning Based Approach for Automated Lane Change Maneuvers, IV 2018, [[paper](https://arxiv.org/abs/1804.07871)]
-- Tactical Decision Making for Lane Changing with Deep Reinforcement Learning, NIPS 2017, [[paper](https://openreview.net/pdf?id=HylddmUAZ)]
-- Imitating Driver Behavior with Generative Adversarial Networks, IV 2017,  [[paper](https://arxiv.org/abs/1701.06699)]
-- Combining Neural Networks and Tree Search for Task and Motion Planning in Challenging Environments, IROS 2017,  [[paper](https://arxiv.org/abs/1703.07887)]
-- Wiggling through complex traffic: Planning trajectories constrained by predictions, IV 2016,  [[paper](https://ieeexplore.ieee.org/document/7535557)]
-- Safe, Multi-Agent, Reinforcement Learning for Autonomous Driving, CoRR 2016, [[paper](https://arxiv.org/abs/1610.03295)]
-- Learning driving styles for autonomous vehicles from demonstration, ICRA 2015, [[paper](https://ieeexplore.ieee.org/document/7139555)]
+- CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving, ECCV 2018, [[paper](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiaodan_Liang_CIRL_Controllable_Imitative_ECCV_2018_paper.html)] [[code](https://github.com/HubFire/Muti-branch-DDPG-CARLA)]
+- A reinforcement learning based approach for automated lane change maneuvers, IV 2018, [[paper](https://arxiv.org/abs/1804.07871)]
+- Adversarial Inverse Reinforcement Learning for Decision Making in Autonomous Driving, ICRA 2020, [[paper](https://arxiv.org/abs/1911.08044v1)]
+- Deep hierarchical reinforcement learning for autonomous driving with distinct behaviors, IV 2018, [[paper](https://www.researchgate.net/profile/Jianyu_Chen22/publication/328454880_Deep_Hierarchical_Reinforcement_Learning_for_Autonomous_Driving_with_Distinct_Behaviors/links/5be340a0299bf1124fc2dc59/Deep-Hierarchical-Reinforcement-Learning-for-Autonomous-Driving-with-Distinct-Behaviors.pdf)]
+- A Hierarchical Architecture for Sequential Decision-Making in Autonomous Driving using Deep Reinforcement Learning, ICML 2019, [[paper](https://arxiv.org/abs/1906.08464v1)]
+- End-to-end Interpretable Neural Motion Planner, CVPR 2019,  [[paper](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)]
+- Jointly Learnable Behavior and Trajectory Planning for Self-Driving Vehicles, IROS 2019,  [[paper](https://arxiv.org/abs/1910.04586)]
+- Dynamic Input for Deep Reinforcement Learning in Autonomous Driving, IROS 2019, [[paper](https://arxiv.org/abs/1907.10994v1)]
 
-## Mobile Robot
+### Simulator \& Dataset
 
-- End-to-End Robotic Reinforcement Learning without Reward Engineering, RSS 2019,[[paper](https://arxiv.org/abs/1904.07854)]
-
-  
-
-
-
+- CARLA: An Open Urban Driving Simulator, [[paper](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)]
+- TORCS: The open racing car simulator, [[paper](http://www.cse.chalmers.se/~chrdimi/papers/torcs.pdf)]
+- Comma.ai: Learning a Driving Simulator [[paper](https://arxiv.org/pdf/1608.01230.pdf)]
+- NGSIM: US Highway 101 Dataset [[docs](https://www.fhwa.dot.gov/publications/research/operations/07030/07030.pdf)]
