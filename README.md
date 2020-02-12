@@ -48,7 +48,6 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 - Dynamic Input for Deep Reinforcement Learning in Autonomous Driving, IROS 2019, [[paper](https://arxiv.org/abs/1907.10994v1)]
 - Learning to Navigate in Cities Without a Map, NIPS 2018, [[paper](https://arxiv.org/abs/1804.00168)]
 - Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation, NIPS 2018, [[paper](https://arxiv.org/abs/1811.00145)]
-
 - Towards Learning Multi-agent Negotiations via Self-Play, ICCV 2019, [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Tang_Towards_Learning_Multi-Agent_Negotiations_via_Self-Play_ICCVW_2019_paper.pdf)]
 
 ### Simulator \& Dataset
