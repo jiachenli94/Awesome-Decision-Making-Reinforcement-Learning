@@ -23,6 +23,7 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models, NIPS 2016,  [[paper](https://arxiv.org/abs/1611.03852)]
 - InfoGAIL: Interpretable Imitation Learning from Visual Demonstrations, NIPS 2017, [[paper](https://arxiv.org/pdf/1703.08840.pdf)] [[code](https://github.com/YunzhuLi/InfoGAIL)]
 - Self-Imitation Learning, ICML 2018, [[paper](https://arxiv.org/abs/1806.05635)] [[code](https://github.com/wudongming97/self-imitation-learning)]
+- Data-Efficient Hierarchical Reinforcement Learning, NIPS 2018, [[paper](https://arxiv.org/abs/1805.08296)]
 - Learning Robust Rewards with Adversarial Inverse Reinforcement Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1710.11248)]
 - Multi-Agent Generative Adversarial Imitation Learning, ICLR 2018, [[paper](https://arxiv.org/abs/1807.09936)]
 - Multi-Agent Adversarial Inverse Reinforcement Learning, ICML 2019, [[paper](https://arxiv.org/abs/1907.13220v1)]
@@ -45,10 +46,14 @@ Also welcome to check the current research in our [**MSC Lab**](https://msc.berk
 - End-to-end Interpretable Neural Motion Planner, CVPR 2019,  [[paper](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)]
 - Jointly Learnable Behavior and Trajectory Planning for Self-Driving Vehicles, IROS 2019,  [[paper](https://arxiv.org/abs/1910.04586)]
 - Dynamic Input for Deep Reinforcement Learning in Autonomous Driving, IROS 2019, [[paper](https://arxiv.org/abs/1907.10994v1)]
+- Learning to Navigate in Cities Without a Map, NIPS 2018, [[paper](https://arxiv.org/abs/1804.00168)]
+- Scalable End-to-End Autonomous Vehicle Testing via Rare-event Simulation, NIPS 2018, [[paper](https://arxiv.org/abs/1811.00145)]
+
+- Towards Learning Multi-agent Negotiations via Self-Play, ICCV 2019, [[paper](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Tang_Towards_Learning_Multi-Agent_Negotiations_via_Self-Play_ICCVW_2019_paper.pdf)]
 
 ### Simulator \& Dataset
 
 - CARLA: An Open Urban Driving Simulator, [[paper](http://proceedings.mlr.press/v78/dosovitskiy17a/dosovitskiy17a.pdf)]
 - TORCS: The open racing car simulator, [[paper](http://www.cse.chalmers.se/~chrdimi/papers/torcs.pdf)]
-- Comma.ai: Learning a Driving Simulator [[paper](https://arxiv.org/pdf/1608.01230.pdf)]
-- NGSIM: US Highway 101 Dataset [[docs](https://www.fhwa.dot.gov/publications/research/operations/07030/07030.pdf)]
+- Comma.ai: Learning a Driving Simulator, [[paper](https://arxiv.org/pdf/1608.01230.pdf)]
+- NGSIM: US Highway 101 Dataset, [[docs](https://www.fhwa.dot.gov/publications/research/operations/07030/07030.pdf)]
