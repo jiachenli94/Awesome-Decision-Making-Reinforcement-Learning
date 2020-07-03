@@ -1,4 +1,4 @@
-# Awesome-Decision-Making-Reinforcement-Learning
+# Awesome Decision Making / Reinforcement Learning
 ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2020.01-lightgrey.svg)![Topic](https://img.shields.io/badge/Topic-decision--making-yellow.svg?logo=github)
 
 This is a paper list of state-of-the-art research materials related to decision making and motion planning. Wish it could be helpful for both academia and industry. (Still updating)
