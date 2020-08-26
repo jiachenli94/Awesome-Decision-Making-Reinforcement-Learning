@@ -9,10 +9,6 @@ This is a paper list of state-of-the-art research materials related to decision 
 
 Please feel free to pull request to add new resources or send emails to us for questions, discussion and collaborations.
 
-Also welcome to check the current research in our [**MSC Lab**](https://msc.berkeley.edu/research/autonomous-vehicle.html) at UC Berkeley.
-
-**Research Intern**: Please read [**this**](https://jiachenli94.github.io/Research_Intern_Opportunities_at_UC_Berkeley.pdf) if you want to apply for research intern opportunities in our group.
-
 **Note**: [**Here**](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction) is also a collection of research materials for interaction-aware trajectory (behavior) prediction.
 
 ## RL & IRL & GAIL
